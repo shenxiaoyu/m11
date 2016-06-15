@@ -1,0 +1,161 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3930963517"/>
+    <file name="master_b-master.css" crc="322472823" ref="contact:vision:work:goals:index:growth"/>
+    <file name="contact.css" crc="4021391093" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4221854549" ref="contact"/>
+    <file name="vision.css" crc="3981311438" ref="vision"/>
+    <file name="iefonts_vision.css" crc="404367820" ref="vision"/>
+    <file name="work.css" crc="4086250346" ref="work"/>
+    <file name="iefonts_work.css" crc="12669738" ref="work"/>
+    <file name="goals.css" crc="71477283" ref="goals"/>
+    <file name="iefonts_goals.css" crc="4253887462" ref="goals"/>
+    <file name="index.css" crc="4014231164" ref="index"/>
+    <file name="iefonts_index.css" crc="4044395364" ref="index"/>
+    <file name="growth.css" crc="4140965901" ref="growth"/>
+    <file name="iefonts_growth.css" crc="3898162088" ref="growth"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:vision:work:contact:growth:goals"/>
+    <file name="museutils.js" crc="3880880085" ref="index:vision:work:contact:growth:goals"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:vision:contact:goals"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:vision:work:contact:growth:goals"/>
+    <file name="pie.js" crc="4147615982" ref="work"/>
+    <file name="webpro.js" crc="33264525" ref="work"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="work"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="work"/>
+    <file name="touchswipe.js" crc="261777990" ref="work"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="work"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc01799-1732x732.jpg" crc="4202062058" ref="index"/>
+    <file name="interview2-1732x732.jpg" crc="490364515" ref="index"/>
+    <file name="dsc02080-1732x732.jpg" crc="4030028246" ref="index"/>
+    <file name="_aoo7397-1738x738.jpg" crc="4123871812" ref="index"/>
+    <file name="_aoo7397-1732x732.jpg" crc="527870128" ref="index"/>
+    <file name="_aoo8155-21105x732.jpg" crc="4139480245" ref="index"/>
+    <file name="_aoo8155-1732x732.jpg" crc="515167689" ref="index"/>
+    <file name="footer.png" crc="395997900" ref="index:vision:work:contact:growth:goals"/>
+    <file name="pasted image 1460x560-u6126.jpg" crc="4064074608" ref="vision"/>
+    <file name="t.png" crc="9076369" ref="vision"/>
+    <file name="icon2-u4403-fr.jpg" crc="3787884824" ref="vision"/>
+    <file name="icon6-u4404-fr.jpg" crc="410795141" ref="vision:goals"/>
+    <file name="icon9-u4405-fr.jpg" crc="4039377293" ref="vision"/>
+    <file name="6-u4813-fr.png" crc="4200201681" ref="work"/>
+    <file name="6.png" crc="109488578" ref="work"/>
+    <file name="5-u4821-fr.png" crc="3858074519" ref="work"/>
+    <file name="5.png" crc="4009173209" ref="work"/>
+    <file name="2-u4897-fr.png" crc="94048522" ref="work"/>
+    <file name="2.jpg" crc="12416783" ref="work"/>
+    <file name="_aoo8013-2-u7476.jpg" crc="81288407" ref="work"/>
+    <file name="bodystorm-2.jpg" crc="4260291346" ref="work"/>
+    <file name="_aoo7862-2.jpg" crc="3871952969" ref="work"/>
+    <file name="fieldwork2-2.jpg" crc="3830830506" ref="work"/>
+    <file name="_aoo5855.jpg" crc="278175162" ref="work"/>
+    <file name="blank.gif" crc="4208392903" ref="work"/>
+    <file name="models.jpg" crc="4017418764" ref="work"/>
+    <file name="interaction 3561.jpg" crc="495486344" ref="work"/>
+    <file name="interaction 3564.jpg" crc="146651432" ref="work"/>
+    <file name="interaction 3560.jpg" crc="4121054621" ref="work"/>
+    <file name="_aoo5909-2.jpg" crc="364211526" ref="work"/>
+    <file name="_aoo585592x61.jpg" crc="3993888981" ref="work"/>
+    <file name="models92x52.jpg" crc="3932763266" ref="work"/>
+    <file name="interaction 356192x52.jpg" crc="400192349" ref="work"/>
+    <file name="interaction 356492x52.jpg" crc="4001049927" ref="work"/>
+    <file name="interaction 356092x52.jpg" crc="100693346" ref="work"/>
+    <file name="_aoo5909-292x61.jpg" crc="508705325" ref="work"/>
+    <file name="loading.gif" crc="3815509949" ref="work"/>
+    <file name="room division image.jpg" crc="153327694" ref="work"/>
+    <file name="_aoo5858.jpg" crc="3981813256" ref="work"/>
+    <file name="屏幕快照 2015-01-20 115345.jpg" crc="4270013189" ref="work"/>
+    <file name="dsc_0099.jpg" crc="252412926" ref="work"/>
+    <file name="dsc_0135.jpg" crc="4182469119" ref="work"/>
+    <file name="dsc_0202.jpg" crc="4039916683" ref="work"/>
+    <file name="屏幕快照 2015-01-20 114943.jpg" crc="251126518" ref="work"/>
+    <file name="dsc_0303.jpg" crc="4287240563" ref="work"/>
+    <file name="屏幕快照 2015-01-22 94145.jpg" crc="4050554444" ref="work"/>
+    <file name="屏幕快照 2015-01-20 11534592x53.jpg" crc="3842035491" ref="work"/>
+    <file name="dsc_009992x62.jpg" crc="4174019396" ref="work"/>
+    <file name="dsc_013592x62.jpg" crc="3900268628" ref="work"/>
+    <file name="dsc_020292x62.jpg" crc="3783647985" ref="work"/>
+    <file name="屏幕快照 2015-01-20 11494392x52.jpg" crc="4106676336" ref="work"/>
+    <file name="dsc_030392x62.jpg" crc="4021589816" ref="work"/>
+    <file name="屏幕快照 2015-01-22 9414592x52.jpg" crc="224978421" ref="work"/>
+    <file name="屏幕快照 2015-01-20 115444.jpg" crc="3997635478" ref="work"/>
+    <file name="屏幕快照 2015-01-20 115345274x155.jpg" crc="4091890944" ref="work"/>
+    <file name="屏幕快照 2015-01-20 115027.jpg" crc="3802836387" ref="work"/>
+    <file name="_aoo7647.jpg" crc="3865765013" ref="work"/>
+    <file name="_aoo7623.jpg" crc="4259120478" ref="work"/>
+    <file name="_aoo7609.jpg" crc="3895551505" ref="work"/>
+    <file name="拼图.jpg" crc="4042022560" ref="work"/>
+    <file name="dsc02072.jpg" crc="3806507817" ref="work"/>
+    <file name="_aoo7612.jpg" crc="3891290034" ref="work"/>
+    <file name="_aoo76.jpg" crc="245518443" ref="work"/>
+    <file name="20141111_32999.jpg" crc="4278465295" ref="work"/>
+    <file name="拼图92x62.jpg" crc="4169878904" ref="work"/>
+    <file name="dsc0207292x62.jpg" crc="4054821679" ref="work"/>
+    <file name="_aoo761292x61.jpg" crc="4223852834" ref="work"/>
+    <file name="_aoo7692x61.jpg" crc="469072765" ref="work"/>
+    <file name="20141111_3299992x62.jpg" crc="428331320" ref="work"/>
+    <file name="_aoo7289-5-u8582.jpg" crc="475282445" ref="work"/>
+    <file name="_aoo7160-2.jpg" crc="3952958057" ref="work"/>
+    <file name="_aoo7205-3.jpg" crc="282416997" ref="work"/>
+    <file name="_aoo7231-4.jpg" crc="4202503646" ref="work"/>
+    <file name="_aoo7305-6.jpg" crc="500879305" ref="work"/>
+    <file name="_aoo7327-7.jpg" crc="68440845" ref="work"/>
+    <file name="_aoo7370-8.jpg" crc="3768021562" ref="work"/>
+    <file name="_aoo7386-9.jpg" crc="4209485223" ref="work"/>
+    <file name="_aoo7390-10.jpg" crc="217733040" ref="work"/>
+    <file name="_aoo7160-292x61.jpg" crc="4049991637" ref="work"/>
+    <file name="_aoo7205-392x61.jpg" crc="4057109864" ref="work"/>
+    <file name="_aoo7231-492x61.jpg" crc="181296391" ref="work"/>
+    <file name="_aoo7305-692x61.jpg" crc="4204586313" ref="work"/>
+    <file name="_aoo7327-792x61.jpg" crc="412742529" ref="work"/>
+    <file name="_aoo7370-892x61.jpg" crc="4275936765" ref="work"/>
+    <file name="_aoo7386-992x61.jpg" crc="3997201752" ref="work"/>
+    <file name="_aoo7390-1092x61.jpg" crc="4225268290" ref="work"/>
+    <file name="039.jpg" crc="106557623" ref="work"/>
+    <file name="050.jpg" crc="254293491" ref="work"/>
+    <file name="049.jpg" crc="3869789168" ref="work"/>
+    <file name="062.jpg" crc="4187007403" ref="work"/>
+    <file name="057.jpg" crc="509202730" ref="work"/>
+    <file name="017.jpg" crc="3898680291" ref="work"/>
+    <file name="025.jpg" crc="3760116630" ref="work"/>
+    <file name="013.jpg" crc="3901706045" ref="work"/>
+    <file name="03992x67.jpg" crc="177864033" ref="work"/>
+    <file name="05092x67.jpg" crc="90770841" ref="work"/>
+    <file name="04992x127.jpg" crc="4177303271" ref="work"/>
+    <file name="06292x67.jpg" crc="506287648" ref="work"/>
+    <file name="05792x67.jpg" crc="4183288013" ref="work"/>
+    <file name="01792x67.jpg" crc="224373970" ref="work"/>
+    <file name="02592x67.jpg" crc="344910614" ref="work"/>
+    <file name="01392x67.jpg" crc="3809567298" ref="work"/>
+    <file name="_aoo9279-2.jpg" crc="401705769" ref="work"/>
+    <file name="_aoo9293-3.jpg" crc="4289828779" ref="work"/>
+    <file name="_aoo9312-4.jpg" crc="3795150864" ref="work"/>
+    <file name="_aoo9411-5.jpg" crc="34750441" ref="work"/>
+    <file name="_aoo9617-6.jpg" crc="8074453" ref="work"/>
+    <file name="_aoo9279-292x61.jpg" crc="331271633" ref="work"/>
+    <file name="_aoo9293-392x61.jpg" crc="3988481845" ref="work"/>
+    <file name="_aoo9312-492x61.jpg" crc="366575673" ref="work"/>
+    <file name="_aoo9411-592x61.jpg" crc="4085751308" ref="work"/>
+    <file name="_aoo9617-692x61.jpg" crc="499292532" ref="work"/>
+    <file name="email-u4341-fr.png" crc="183793996" ref="contact"/>
+    <file name="phone-u4350-fr.png" crc="4044379500" ref="contact"/>
+    <file name="facebook-u4352-fr.png" crc="16405366" ref="contact"/>
+    <file name="competency area.jpg" crc="4290458285" ref="growth"/>
+    <file name="未标题-2.png" crc="416401395" ref="goals"/>
+    <file name="未标题-3.png" crc="4166115579" ref="goals"/>
+    <file name="未标题-7副本.png" crc="246207579" ref="goals"/>
+    <file name="pasted image 5000x3750-u6241.jpg" crc="20263469" ref="goals"/>
+    <file name="icon11-u4518-fr.jpg" crc="4251764298" ref="goals"/>
+    <file name="icon10-u4527-fr.jpg" crc="3852609253" ref="goals"/>
+    <file name="icon13-u4538-fr.jpg" crc="457777093" ref="goals"/>
+  </folder>
+  <file name="index.html" crc="3875844700" mt="1421941973695" redirect="true"/>
+  <file name="vision.html" crc="284449384" mt="1421941973659" redirect="true"/>
+  <file name="work.html" crc="4104071550" mt="1421947546439" redirect="true"/>
+  <file name="contact.html" crc="123874027" mt="1421941973669" redirect="true"/>
+  <file name="growth.html" crc="301282404" mt="1421947548609" redirect="true"/>
+  <file name="goals.html" crc="4169941172" mt="1421947027911" redirect="true"/>
+</manifest>
